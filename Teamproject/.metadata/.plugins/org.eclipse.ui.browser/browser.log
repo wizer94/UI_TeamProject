@@ -1,0 +1,54 @@
+
+11월 08, 2022 08:47:35.759 NEW SESSION
+11월 08, 2022 08:47:35.759 [9568:2724:1108/084735.758:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 08, 2022 08:47:37.413 [9568:9680:1108/084737.413:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+11월 08, 2022 08:48:15.995 [14232:6400:1108/084815.995:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+
+11월 09, 2022 10:45:24.535 NEW SESSION
+11월 09, 2022 10:45:24.535 [2180:12096:1109/104524.533:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 09, 2022 10:45:26.194 [2180:15072:1109/104526.194:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+11월 09, 2022 10:45:26.195 [2180:15072:1109/104526.194:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:45:26.195 [2180:15072:1109/104526.194:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:45:26.195 [2180:15072:1109/104526.194:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:45:26.195 [2180:15072:1109/104526.194:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:48:08.270 [1288:7760:1109/104808.270:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 09, 2022 10:48:10.161 [1288:9560:1109/104810.160:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+11월 09, 2022 10:48:10.162 [1288:9560:1109/104810.161:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:48:10.162 [1288:9560:1109/104810.161:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:48:10.163 [1288:9560:1109/104810.161:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:48:10.164 [1288:9560:1109/104810.161:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:48:33.35 [1288:9560:1109/104833.034:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+11월 09, 2022 10:48:33.35 [1288:9560:1109/104833.035:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:48:33.36 [1288:9560:1109/104833.035:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:48:36.804 [1288:9560:1109/104836.804:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+11월 09, 2022 10:48:36.805 [1288:9560:1109/104836.804:ERROR:registration_request.cc(244)] Registration URL fetching failed.
+11월 09, 2022 10:49:08.95 [1288:13028:1109/104908.094:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 09, 2022 10:49:58.217 [14244:13976:1109/104958.217:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+
+11월 10, 2022 08:39:13.64 NEW SESSION
+11월 10, 2022 08:39:13.64 [3052:7028:1110/083913.061:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 10, 2022 08:39:14.848 [3052:4664:1110/083914.848:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+11월 10, 2022 08:39:33.685 [3052:7028:1110/083933.684:ERROR:interface_endpoint_client.cc(690)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 10, 2022 08:39:36.874 [3052:4664:1110/083936.874:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -101
+11월 10, 2022 08:40:17.86 [12056:13976:1110/084017.086:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 10, 2022 08:41:04.838 [12492:5808:1110/084104.838:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 10, 2022 08:42:22.82 [10048:13684:1110/084222.082:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 10, 2022 08:43:21.706 [10048:11924:1110/084321.705:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 10, 2022 08:46:16.277 [10048:13684:1110/084616.277:ERROR:device_event_log_impl.cc(215)] [08:46:16.277] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 10, 2022 08:57:52.58 [5796:13240:1110/085752.058:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 10, 2022 08:58:40.28 [12380:12932:1110/085840.028:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 10, 2022 08:59:39.748 [12380:4364:1110/085939.748:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 10, 2022 09:02:50.422 [12380:12932:1110/090250.421:ERROR:device_event_log_impl.cc(215)] [09:02:50.421] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 10, 2022 09:05:47.625 [10996:10896:1110/090547.625:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+
+11월 10, 2022 10:21:54.671 NEW SESSION
+11월 10, 2022 10:21:54.671 [12560:14172:1110/102154.667:ERROR:data_type_manager_impl.cc(34)] Send Tab To Self cryptographer error was encountered: 
+11월 10, 2022 10:21:56.610 [12560:6188:1110/102156.610:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -101
+11월 10, 2022 10:22:54.359 [12560:11888:1110/102254.358:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 10, 2022 10:45:25.12 [12560:14172:1110/104525.011:ERROR:device_event_log_impl.cc(215)] [10:45:25.011] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 10, 2022 10:47:42.612 [12560:6188:1110/104742.611:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+11월 10, 2022 10:47:43.443 [12560:14172:1110/104743.443:ERROR:device_event_log_impl.cc(215)] [10:47:43.442] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 10, 2022 10:47:45.304 [12560:14172:1110/104745.304:ERROR:device_event_log_impl.cc(215)] [10:47:45.303] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 10, 2022 10:47:48.205 [12560:6188:1110/104748.205:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -101
+11월 10, 2022 11:19:43.442 [12560:6188:1110/111943.441:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+11월 10, 2022 11:19:49.251 [12560:6188:1110/111949.250:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -101

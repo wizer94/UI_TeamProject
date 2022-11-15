@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.spring.tour.repository.DataMapper">
+
+	<select id="selectOne" parameterType="string" resultType="DataVO">
+		select * from tour where location = #{location}
+	</select>
+	
+	<select id="selectList" resultType="DataVO">
+		select * from tour
+	</select>
+	
+	<select id="insertOne" parameterType="DataVO">
+		insert into tour (region)
+		values (
+			#{region }
+		)
+	</select>
+
+</mapper>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<!-- VO 클래스의 별칭을 등록하는 코드. 하단의 mapper.xml 파일 내에서 사용하며 필수는 아니지만 쓰는 게 편함. -->
+	<typeAliases>
+		<typeAlias type="com.spring.tour.vo.DataVO" alias="DataVO"/>
+	</typeAliases>
+
+	<!-- mapper.xml 파일을 등록하는 코드. 이건 필수로 해야됨. -->
+	<mappers>
+		<mapper resource="mappers/dataMapper.xml" />
+	</mappers>
+
+</configuration>
