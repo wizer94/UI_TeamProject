@@ -70,4 +70,11 @@ public class HomeController {
 		return "info";	// 파일명.jsp 에서 파일명을 표기.
 	}
 	
+	@RequestMapping(value = "/info01", method = RequestMethod.GET)
+	public String info01(Model model) {
+		logger.info("인포01 페이지 실행");
+		
+		
+		return "info01";	// 파일명.jsp 에서 파일명을 표기.
+	}
 }

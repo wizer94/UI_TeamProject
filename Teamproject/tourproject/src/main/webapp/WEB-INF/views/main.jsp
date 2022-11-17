@@ -45,11 +45,7 @@
             <!-- Call to Action-->
             <div class="card text-white bg-secondary my-5 py-4 text-center">
                 <div class="card-body"><p class="text-white m-0">
-                	<form action="/" method="post">
-						<input type="text" name="id" placeholder="확인할 데이터의 ID 입력">
-						<input type="submit" value="확인">
-					</form>
-						${result }<br>
+						<!-- ${result }<br>-->
 						index: ${result.id }<br>
 						intro_info: ${result.intro_info }<br>
 						price: ${result.price }<br>
