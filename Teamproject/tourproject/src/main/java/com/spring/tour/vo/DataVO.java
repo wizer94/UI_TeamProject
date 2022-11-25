@@ -7,21 +7,20 @@ public class DataVO {
 	private String location;		// 관광지명
 	private String price;			// 입장료
 	private String opentime;		// 영업시간
-	private String intro_info;		// 간단정보(인트로 페이지에 사용)
-	private String detail_info;		// 세부정부(세부 페이지에서 사용)
+	private String info;		// 간단정보(인트로 페이지에 사용)
+	private String address;		// 주소지
 	
 	public DataVO() {}
 
-	public DataVO(int id, String region, String location, String price, String opentime, String intro_info,
-			String detail_info) {
+	public DataVO(int id, String region, String location, String price, String opentime, String info, String address) {
 		super();
 		this.id = id;
 		this.region = region;
 		this.location = location;
 		this.price = price;
 		this.opentime = opentime;
-		this.intro_info = intro_info;
-		this.detail_info = detail_info;
+		this.info = info;
+		this.address = address;
 	}
 
 	public void setRegion(String region) {
@@ -57,17 +56,17 @@ public class DataVO {
 		return opentime;
 	}
 
-	public String getIntro_info() {
-		return intro_info;
+	public String getInfo() {
+		return info;
 	}
-
-	public String getDetail_info() {
-		return detail_info;
+	
+	public String getAddress() {
+		return address;
 	}
 
 	@Override
 	public String toString() {
 		return "DetailData [id=" + id + ", region=" + region + ", location=" + location + ", price=" + price
-				+ ", opentime=" + opentime + ", intro_info=" + intro_info + ", detail_info=" + detail_info + "]";
+				+ ", opentime=" + opentime + ", info=" + info + ", address=" + address + "]" ;
 	}
 }
