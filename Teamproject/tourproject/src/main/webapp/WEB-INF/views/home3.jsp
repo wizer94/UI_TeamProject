@@ -265,7 +265,7 @@
 						<li class="ft_list-item">이서후&nbsp;dutlstjgn@naver.com<br>이준규&nbsp;ljg0910s@gmail.com</li>
 					</ul>
 				</div>
-				<div class="ft_block">
+				<div class="ft_block1">
 					<ul class="ft_list">
 						<h5 class="ft_list-title">고객 문의</h5>
 						<li class="ft_list-item">고객 센터</li>
