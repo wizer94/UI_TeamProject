@@ -222,6 +222,7 @@
 									<li>ㅇ</li>
 									<li><a href="info11">여의도한강공원</a></li>
 									<li><a href="info06">올림픽공원</a></li>
+									<li><a href="info12">63빌딩</a></li>
 									<li>ㅊ</li>
 									<li><a href="info01">창덕궁</a></li>
 									<li><a href="info03">청계천</a></li>
